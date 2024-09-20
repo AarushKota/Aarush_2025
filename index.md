@@ -84,9 +84,9 @@ hide: true
 <div class="dropdown">
     <button class="dropbtn">Menu</button>
     <div class="dropdown-content">
-        <a href="#link1">Link 1</a>
-        <a href="#link2">Link 2</a>
-        <a href="#link3">Link 3</a>
+        <a href="https://aarushkota.github.io/Aarush_2025/calculator">Calculator</a>
+        <a href="https://aarushkota.github.io/Aarush_2025/cookieclicker">Cookie Clicker</a>
+        <a href="https://aarushkota.github.io/Aarush_2025/snake">Snake </a>
     </div>
 </div>
 
