@@ -86,7 +86,8 @@ hide: true
     <div class="dropdown-content">
         <a href="https://aarushkota.github.io/Aarush_2025/calculator">Calculator</a>
         <a href="https://aarushkota.github.io/Aarush_2025/cookieclicker">Cookie Clicker</a>
-        <a href="https://aarushkota.github.io/Aarush_2025/snake">Snake </a>
+        <a href="https://aarushkota.github.io/Aarush_2025/snake">Snake</a>ma
+        <a href="https://aarushkota.github.io/Aarush_2025/jupyternotebook">Jupyter Notebook</a>
     </div>
 </div>
 
